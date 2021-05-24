@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="261" height="219" viewBox="0 0 261 219">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#60bc49"/>
+      <stop offset="1" stop-color="#54c095"/>
+    </linearGradient>
+  </defs>
+  <g id="im_buttom_bubble" transform="translate(-197 -484)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="67" cy="67" r="67" transform="translate(197 569)" opacity="0.5" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="91" cy="91" r="91" transform="translate(276 484)" opacity="0.94" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
